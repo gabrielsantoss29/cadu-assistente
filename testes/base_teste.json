@@ -1,0 +1,35 @@
+[
+  {
+    "id": 3,
+    "categoria": "Saúde",
+    "titulo": "Fazer o Cartão Nacional de Saúde (Cartão SUS)",
+    "palavras_chave": ["cartao sus", "cartao do sus", "sus", "cns"],
+    "resposta": "Exemplo copiado do enunciado, só para teste.",
+    "documentos": ["Documento com foto", "CPF"],
+    "onde": "Qualquer UBS",
+    "fonte": "https://www.gov.br/saude",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 4,
+    "categoria": "Teste",
+    "titulo": "Bolsa de teste",
+    "palavras_chave": ["bolsa", "auxilio teste", "beneficio teste"],
+    "resposta": "Registro de teste.",
+    "documentos": [],
+    "onde": "Lugar de teste",
+    "fonte": "https://exemplo.gov.br",
+    "verificado_em": "2026-11-09"
+  },
+  {
+    "id": 5,
+    "categoria": "Teste",
+    "titulo": "Outra bolsa de teste",
+    "palavras_chave": ["bolsa", "outra coisa", "mais uma"],
+    "resposta": "Registro de teste 2.",
+    "documentos": [],
+    "onde": "Lugar de teste",
+    "fonte": "https://exemplo.gov.br",
+    "verificado_em": "2026-11-09"
+  }
+]

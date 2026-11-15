@@ -1,0 +1,1055 @@
+[
+  {
+    "id": 1,
+    "codigo": "cadunico-o-que-e",
+    "categoria": "Cadastro Único",
+    "titulo": "O que é o Cadastro Único (CadÚnico)",
+    "palavras_chave": [
+      "cadunico",
+      "cad unico",
+      "cadastro unico",
+      "o que é cadúnico",
+      "cadastro do governo",
+      "cadastro social",
+      "nis",
+      "cadastro bolsa familia"
+    ],
+    "resposta": "O Cadastro Único é uma lista do governo com as famílias de baixa renda. Ele serve para a família entrar em programas como o Bolsa Família. Fazer o cadastro é grátis. Estar no cadastro não garante o benefício. Cada programa tem suas regras.",
+    "documentos": [
+      "Ver a orientação \"Como fazer o Cadastro Único e quais documentos levar\"."
+    ],
+    "onde": "CRAS ou posto do Cadastro Único da sua cidade. Telefone 121 (ligação grátis).",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "MDS - Cadastro Único",
+    "quem_pode": "Famílias com renda de até meio salário mínimo por pessoa. Famílias com renda maior também podem se cadastrar quando algum programa pede o Cadastro Único. Há regras próprias para indígenas, quilombolas, ribeirinhos, pescadores artesanais e pessoas em situação de rua.",
+    "como_pedir": "Ir pessoalmente ao CRAS ou ao posto de cadastro da prefeitura. É grátis.",
+    "renovacao": "A cada 2 anos (24 meses) ou sempre que algo mudar na família.",
+    "se_acabar_ou_bloquear": "Cadastro desatualizado pode levar ao bloqueio ou cancelamento de benefícios. Ver fichas de atualização e de bloqueio.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 2,
+    "codigo": "cadunico-como-fazer",
+    "categoria": "Cadastro Único",
+    "titulo": "Como fazer o Cadastro Único e quais documentos levar",
+    "palavras_chave": [
+      "fazer cadastro único",
+      "como me cadastrar",
+      "documentos cadunico",
+      "quais documentos levar",
+      "inscrever cadunico",
+      "fazer o cad unico",
+      "cadastrar familia",
+      "comprovante de residencia"
+    ],
+    "resposta": "Vá a um CRAS ou posto de cadastro da prefeitura. A pessoa responsável pela família conta como todos vivem, numa conversa de cerca de 1 hora. Não precisa levar a família toda. Leve documentos. É grátis, não pague a ninguém.",
+    "documentos": [
+      "Responsável pela família: CPF (de preferência) ou título de eleitor; documento com foto; comprovante de endereço (sem ele, vale declaração de residência assinada pelo responsável). Demais pessoas: pelo menos um entre CPF, título de eleitor, certidão de nascimento ou casamento, RG ou carteira de trabalho. Indígenas: pode ser o RANI. Úteis, mas não obrigatórios: comprovante de matrícula escolar dos filhos até 17 anos e carteira de trabalho."
+    ],
+    "onde": "CRAS ou posto do Cadastro Único da prefeitura. Telefone 121.",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-se-no-cadastro-unico-para-programas-sociais-do-governo-federal",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Portal gov.br - Inscrever-se no Cadastro Único",
+    "quem_pode": "Qualquer pessoa com mais de 16 anos pode cadastrar a família. Se a família não tem responsável, o cadastro pode ser feito por um representante legal (tutela, curatela ou guarda).",
+    "como_pedir": "Presencial, no CRAS ou posto da cidade, que pode ser achado no mapa de CRAS do MDS. A página do serviço também cita a versão web do aplicativo do Cadastro Único.",
+    "renovacao": "Atualizar a cada 2 anos ou quando mudar algo (endereço, renda, quem mora na casa, escola dos filhos).",
+    "se_acabar_ou_bloquear": "Se faltar documento, a prefeitura deve fazer o cadastro mesmo assim, mas ele fica incompleto e a família não entra em programas até apresentar os documentos.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 3,
+    "codigo": "cadunico-atualizar",
+    "categoria": "Cadastro Único",
+    "titulo": "Atualizar o Cadastro Único a cada 2 anos",
+    "palavras_chave": [
+      "atualizar cadunico",
+      "atualização cadastral",
+      "cadastro vencido",
+      "cadastro desatualizado",
+      "2 anos",
+      "renovar cadunico",
+      "atualizar cadastro",
+      "mudei de endereço"
+    ],
+    "resposta": "O cadastro precisa ser atualizado a cada 2 anos, mesmo se nada mudou. Também precisa atualizar quando mudar endereço, renda ou quem mora na casa. Quem recebe Bolsa Família pode ser chamado a partir de 18 meses. Vá ao CRAS ou posto.",
+    "documentos": [
+      "Os mesmos do cadastro (ver 'cadunico-como-fazer'). Comprovante de endereço (de preferência conta de luz), matrícula escolar e carteira de trabalho ajudam."
+    ],
+    "onde": "CRAS ou posto do Cadastro Único. Telefone 121.",
+    "fonte": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/Noticias/2025/tire-suas-duvidas-sobre-o-novo-cadastro-unico",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "MDS - Tire suas dúvidas sobre o novo Cadastro Único",
+    "quem_pode": "Todas as famílias cadastradas.",
+    "como_pedir": "Ir ao CRAS ou posto de cadastro da cidade. A notícia oficial do novo sistema diz que não dá para atualizar pelo celular.",
+    "renovacao": "A cada 24 meses ou quando houver mudança. Famílias do Bolsa Família podem ser convocadas entre 18 e 24 meses após a última atualização.",
+    "se_acabar_ou_bloquear": "Cadastro vencido ou com problema pode bloquear ou cancelar benefícios. Ver ficha de bloqueio do Bolsa Família.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 4,
+    "codigo": "cadunico-cores-app",
+    "categoria": "Cadastro Único",
+    "titulo": "Cores verde, amarelo e vermelho do app do Cadastro Único",
+    "palavras_chave": [
+      "cor vermelha cadunico",
+      "cadastro amarelo",
+      "cadastro verde",
+      "app cadunico vermelho",
+      "o que significa a cor",
+      "cadastro desatualizado vermelho",
+      "semáforo cadunico"
+    ],
+    "resposta": "No aplicativo oficial, verde quer dizer cadastro em dia. Amarelo quer dizer que vai fazer 2 anos sem atualizar. Vermelho quer dizer que já passou de 2 anos. Se estiver amarelo ou vermelho, vá ao CRAS ou posto.",
+    "documentos": [
+      "Para atualizar, ver 'cadunico-como-fazer'."
+    ],
+    "onde": "CRAS ou posto do Cadastro Único.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico/perguntas-frequentes-cadastro-unico",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "MDS - Perguntas frequentes do Cadastro Único",
+    "quem_pode": "Quem tem cadastro e usa o aplicativo oficial.",
+    "como_pedir": "Não há o que pedir. Abra o aplicativo e veja a cor. Se precisar atualizar, vá ao CRAS ou posto.",
+    "renovacao": "Verde: nada a fazer. Amarelo: perto de completar 2 anos. Vermelho: mais de 2 anos sem atualizar.",
+    "se_acabar_ou_bloquear": "Vermelho pode levar a revisão e bloqueio de benefícios se a família for convocada e não atualizar.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 5,
+    "codigo": "cadunico-app-oficial",
+    "categoria": "Cadastro Único",
+    "titulo": "O que o aplicativo oficial do Cadastro Único faz",
+    "palavras_chave": [
+      "app cadunico",
+      "aplicativo cadastro único",
+      "meu cadunico",
+      "comprovante de cadastro",
+      "baixar app",
+      "app do governo",
+      "ver meu nis",
+      "consultar cadastro no celular"
+    ],
+    "resposta": "O aplicativo oficial mostra se o cadastro está em dia, os integrantes da família e o NIS de cada um. Também dá o comprovante de cadastro e mostra os postos perto de você. Não faz o cadastro novo nem a atualização.",
+    "documentos": [
+      "CPF e data de nascimento para consulta simples; conta gov.br para ver tudo."
+    ],
+    "onde": "Lojas de aplicativos ou a versão web. Para atualizar, CRAS ou posto.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico/paginas/app-cadunico",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "MDS - Aplicativo Cadastro Único",
+    "quem_pode": "Quem já está no Cadastro Único. Alguns itens funcionam sem login; os dados completos pedem login gov.br.",
+    "como_pedir": "Baixar na Play Store ou Apple Store, ou usar a versão web. Conferir o endereço oficial antes de entrar.",
+    "renovacao": "Não se aplica.",
+    "se_acabar_ou_bloquear": "Se o app estiver fora do ar, espere ou procure um posto.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 6,
+    "codigo": "cadunico-estou-no-cadastro",
+    "categoria": "Cadastro Único",
+    "titulo": "Como saber se estou no Cadastro Único",
+    "palavras_chave": [
+      "como saber se estou no cadunico",
+      "consultar cadunico",
+      "consulta cpf cadunico",
+      "estou cadastrado",
+      "meu nis",
+      "consultar nis",
+      "ver meu cadastro",
+      "tenho cadastro único"
+    ],
+    "resposta": "Abra o aplicativo oficial do Cadastro Único. Digite seu CPF e a data de nascimento. O app diz se você está no cadastro. Com login gov.br você vê mais dados. Se não conseguir, vá ao CRAS ou ligue 121.",
+    "documentos": [
+      "CPF e data de nascimento."
+    ],
+    "onde": "Aplicativo oficial, CRAS ou 121.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico/perguntas-frequentes-cadastro-unico",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "MDS - Perguntas frequentes do Cadastro Único",
+    "quem_pode": "Qualquer pessoa.",
+    "como_pedir": "Consulta por CPF no aplicativo ou na versão web; consulta completa com login gov.br.",
+    "renovacao": "Não se aplica.",
+    "se_acabar_ou_bloquear": "Se não aparecer cadastro, procure o CRAS para se cadastrar.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 7,
+    "codigo": "cadunico-revisao-averiguacao",
+    "categoria": "Cadastro Único",
+    "titulo": "Revisão e averiguação cadastral: fui chamado, e agora?",
+    "palavras_chave": [
+      "averiguação cadastral",
+      "revisão cadastral",
+      "fui convocado",
+      "carta cadunico",
+      "renda divergente",
+      "pendência no cadastro",
+      "cadastro pendente",
+      "chamado para atualizar"
+    ],
+    "resposta": "Revisão é quando o cadastro está com 2 anos ou mais sem atualizar. Averiguação é quando a renda declarada é diferente da renda que o governo vê em outras bases. Nos dois casos, o responsável deve ir ao CRAS ou posto e atualizar.",
+    "documentos": [
+      "Documentos do responsável e da família (ver 'cadunico-como-fazer'). Na averiguação de renda a norma diz que não precisa pedir comprovante de renda: vale o que a pessoa declara."
+    ],
+    "onde": "CRAS ou posto do Cadastro Único. Telefone 121.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico/perguntas-frequentes-cadastro-unico",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "MDS - Perguntas frequentes do Cadastro Único",
+    "quem_pode": "Vale para famílias chamadas pelo governo, por mensagem no aplicativo, no extrato ou na fatura de luz (Tarifa Social), ou por carta.",
+    "como_pedir": "Ir ao posto da prefeitura e atualizar o cadastro, falando a verdade.",
+    "renovacao": "Depende do aviso recebido. Respeite a data-limite.",
+    "se_acabar_ou_bloquear": "Quem não atualiza pode ter Bolsa Família e Tarifa Social bloqueados ou cancelados, e o cadastro pode ser excluído. BPC também pode ser cortado.",
+    "status_verificacao": "parcial",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 8,
+    "codigo": "cadunico-cancelar-unipessoal",
+    "categoria": "Cadastro Único",
+    "titulo": "Cancelar cadastro de quem mora sozinho no papel (unipessoal)",
+    "palavras_chave": [
+      "cancelar cadastro",
+      "excluir cadunico",
+      "cadastro unipessoal",
+      "mora sozinho",
+      "cadastro duplicado",
+      "cancelar pelo app",
+      "dois cadastros na mesma casa"
+    ],
+    "resposta": "Quem se cadastrou sozinho, mas mora com a família, pode cancelar esse cadastro pelo aplicativo, em dia útil das 7h às 21h. Atenção: não dá para desfazer. O Bolsa Família dessa pessoa também é cancelado. Na dúvida, fale com o CRAS antes.",
+    "documentos": [
+      "Conta gov.br."
+    ],
+    "onde": "Aplicativo oficial ou CRAS.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico/perguntas-frequentes-cadastro-unico",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "MDS - Perguntas frequentes do Cadastro Único",
+    "quem_pode": "Só quem fez cadastro sozinho (unipessoal) e mora com outras pessoas da família. Pessoas em situação de rua, quem recebe BPC e quem foi cadastrado por responsável legal precisam ir ao posto.",
+    "como_pedir": "Entrar no app com login gov.br, abrir 'Consulta completa' e depois 'Cancele o seu cadastro'.",
+    "renovacao": "Não se aplica.",
+    "se_acabar_ou_bloquear": "Cancelamento é imediato e não volta. Para voltar, precisa fazer novo cadastro e esperar nova seleção do Bolsa Família.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 9,
+    "codigo": "cras-o-que-e",
+    "categoria": "Ajuda e cuidados",
+    "titulo": "O que é o CRAS e para que serve",
+    "palavras_chave": [
+      "cras",
+      "o que é cras",
+      "centro de assistência social",
+      "onde fica o cras",
+      "posto de cadastro",
+      "assistente social",
+      "centro de referencia"
+    ],
+    "resposta": "CRAS é o Centro de Referência de Assistência Social, da prefeitura. É o lugar onde você faz e atualiza o Cadastro Único e pede ajuda com o Bolsa Família. O atendimento é grátis. Veja o endereço no site da prefeitura ou ligue 121.",
+    "documentos": [
+      "Documentos pessoais com foto e CPF. Para cadastro, ver 'cadunico-como-fazer'."
+    ],
+    "onde": "CRAS ou posto de cadastro da prefeitura. Mapa: aplicacoes.mds.gov.br/sagi/mops/",
+    "fonte": "https://www.gov.br/pt-br/servicos/receber-o-bolsa-familia",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Portal gov.br - Receber o Bolsa Família",
+    "quem_pode": "Qualquer pessoa.",
+    "como_pedir": "Ir ao CRAS mais perto de casa. O mapa de CRAS do MDS ajuda a achar.",
+    "renovacao": "Não se aplica.",
+    "se_acabar_ou_bloquear": "Se o benefício bloqueou, o CRAS é o primeiro lugar a procurar.",
+    "status_verificacao": "parcial",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 10,
+    "codigo": "telefone-121",
+    "categoria": "Ajuda e cuidados",
+    "titulo": "Telefone 121 (Disque Social)",
+    "palavras_chave": [
+      "121",
+      "disque 121",
+      "telefone bolsa familia",
+      "disque social",
+      "ligar cadunico",
+      "central de atendimento",
+      "telefone cadúnico",
+      "0800 bolsa familia"
+    ],
+    "resposta": "O 121 é a central do Ministério do Desenvolvimento Social. A ligação é grátis, de celular ou telefone fixo. Serve para tirar dúvidas sobre Cadastro Único e Bolsa Família. Atendimento por pessoa de segunda a sexta, das 7h às 19h. Por máquina, a toda hora.",
+    "documentos": [
+      "Tenha CPF ou NIS à mão."
+    ],
+    "onde": "Telefone 121.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/bolsa-familia",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "MDS - Bolsa Família",
+    "quem_pode": "Qualquer pessoa.",
+    "como_pedir": "Ligue 121.",
+    "renovacao": "Não se aplica.",
+    "se_acabar_ou_bloquear": "Não se aplica.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 11,
+    "codigo": "golpes-cuidados",
+    "categoria": "Ajuda e cuidados",
+    "titulo": "Golpes e cuidados com seus dados",
+    "palavras_chave": [
+      "golpe",
+      "golpe bolsa familia",
+      "pagar para cadastrar",
+      "mensagem falsa",
+      "link falso",
+      "whatsapp cadunico",
+      "fraude",
+      "pediram dinheiro",
+      "novo cadastro obrigatório"
+    ],
+    "resposta": "O governo não cobra para fazer cadastro. Não pague a ninguém. Desconfie de mensagem ou ligação que pede documentos ou senha. O governo não exigiu novo cadastro por causa do sistema novo. Tire dúvidas só pelo 121 ou no CRAS.",
+    "documentos": [
+      "Não passe CPF, senha ou documentos para desconhecidos."
+    ],
+    "onde": "121, gov.br/mds e CRAS. O CadU não é canal oficial e não pede dados pessoais.",
+    "fonte": "https://www.gov.br/mds/pt-br/noticias-e-conteudos/Noticias/2025/tire-suas-duvidas-sobre-o-novo-cadastro-unico",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "MDS - Tire suas dúvidas sobre o novo Cadastro Único",
+    "quem_pode": "Todas as pessoas.",
+    "como_pedir": "Não se aplica.",
+    "renovacao": "Não se aplica.",
+    "se_acabar_ou_bloquear": "Se cair em golpe, denuncie às autoridades (polícia) e avise o CRAS.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 12,
+    "codigo": "bolsa-familia-quem-pode",
+    "categoria": "Bolsa Família",
+    "titulo": "Bolsa Família: quem pode receber",
+    "palavras_chave": [
+      "bolsa familia",
+      "quem tem direito",
+      "como receber bolsa familia",
+      "entrar no bolsa familia",
+      "renda 218",
+      "pedir bolsa familia",
+      "bolsa familia 2026",
+      "bolça familia"
+    ],
+    "resposta": "Para entrar, a família precisa estar no Cadastro Único e ter renda de até R$ 218 por pessoa por mês. A entrada não é automática: o governo faz a análise e depende da verba do programa. Tem condições de saúde e escola.",
+    "documentos": [
+      "Os do Cadastro Único."
+    ],
+    "onde": "CRAS ou posto do Cadastro Único. Telefone 121. Saque em lotérica ou correspondente Caixa Aqui.",
+    "fonte": "https://www.gov.br/pt-br/servicos/receber-o-bolsa-familia",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Portal gov.br - Receber o Bolsa Família",
+    "quem_pode": "Famílias no Cadastro Único com renda mensal por pessoa de até R$ 218. Pode receber mesmo com carteira assinada, MEI ou outra renda, se a renda por pessoa ficar dentro do limite.",
+    "como_pedir": "Fazer ou atualizar o Cadastro Único no CRAS. Não há outro pedido: um sistema analisa os cadastros.",
+    "renovacao": "Manter o Cadastro Único atualizado (2 anos) e cumprir as condições: frequência escolar (60% para 4 e 5 anos; 75% de 6 a 18 anos), vacinas, peso e altura de crianças menores de 7 anos e pré-natal.",
+    "se_acabar_ou_bloquear": "Ver ficha de bloqueio e cancelamento.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 13,
+    "codigo": "bolsa-familia-valores",
+    "categoria": "Bolsa Família",
+    "titulo": "Bolsa Família: quanto a família recebe",
+    "palavras_chave": [
+      "valor bolsa familia",
+      "quanto paga bolsa familia",
+      "600 reais",
+      "beneficio primeira infancia",
+      "valor por filho",
+      "bolsa familia gestante",
+      "adicional crianças"
+    ],
+    "resposta": "O valor muda de família para família. Cada pessoa recebe R$ 142. Se a soma der menos de R$ 600, o governo completa até R$ 600. Há mais R$ 150 por criança até 7 anos e R$ 50 por gestante, mãe que amamenta, criança ou jovem de 7 a 18 anos.",
+    "documentos": [
+      "Não se aplica."
+    ],
+    "onde": "Aplicativo Bolsa Família, 121 ou CRAS.",
+    "fonte": "https://www.gov.br/pt-br/servicos/receber-o-bolsa-familia",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Portal gov.br - Receber o Bolsa Família",
+    "quem_pode": "Famílias que já recebem o Bolsa Família.",
+    "como_pedir": "Não se pede o valor. Ele é calculado pelo governo.",
+    "renovacao": "O valor pode mudar quando a família muda no Cadastro Único.",
+    "se_acabar_ou_bloquear": "Ver ficha de bloqueio.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 14,
+    "codigo": "bolsa-familia-bloqueio-cancelamento",
+    "categoria": "Bolsa Família",
+    "titulo": "Meu Bolsa Família bloqueou ou foi cancelado: o que fazer",
+    "palavras_chave": [
+      "bolsa familia bloqueado",
+      "meu benefício bloqueou",
+      "bolsa familia cancelado",
+      "bloqueio",
+      "não consigo sacar",
+      "bolsa familia suspenso",
+      "desbloquear",
+      "cancelaram meu bolsa familia"
+    ],
+    "resposta": "Benefício bloqueado quer dizer que o dinheiro fica parado até resolver um problema, quase sempre no cadastro. Vá ao CRAS, com documentos e a carta, se recebeu. Resolvido o problema, o município pode desbloquear. Se cancelar, pergunte no CRAS se dá para reverter.",
+    "documentos": [
+      "Documentos pessoais com foto, CPF, comprovante de endereço e a carta ou aviso, se houver."
+    ],
+    "onde": "CRAS ou setor do Bolsa Família da prefeitura; telefone 121.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico/perguntas-frequentes-cadastro-unico",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "MDS - Perguntas frequentes do Cadastro Único",
+    "quem_pode": "Famílias que recebem Bolsa Família.",
+    "como_pedir": "Ir ao CRAS ou ao setor do Bolsa Família da prefeitura. Para falha em escola ou saúde, levar comprovantes (cartão de vacina, declaração da escola).",
+    "renovacao": "Atualizar o Cadastro Único resolve a maior parte dos casos.",
+    "se_acabar_ou_bloquear": "Segundo as Perguntas Frequentes do MDS: a reversão do cancelamento deve ser feita pelo município em até 180 dias; depois disso a família só volta com novo processo de concessão. Parcelas atrasadas só podem ser pagas se a falta de atualização não foi culpa da família.",
+    "status_verificacao": "parcial",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 15,
+    "codigo": "bolsa-familia-calendario",
+    "categoria": "Bolsa Família",
+    "titulo": "Bolsa Família: quando cai o pagamento",
+    "palavras_chave": [
+      "calendário bolsa familia",
+      "quando cai",
+      "data de pagamento",
+      "bolsa familia novembro",
+      "bolsa familia dezembro",
+      "final do nis",
+      "dia do pagamento"
+    ],
+    "resposta": "O pagamento é feito nos últimos 10 dias úteis do mês, por final do número do NIS. Em dezembro, termina no dia 23. Em novembro e dezembro de 2026 as datas podem ter mudado. Veja a sua no aplicativo do Bolsa Família ou ligue 121.",
+    "documentos": [
+      "Cartão do Bolsa Família ou conta Caixa Tem."
+    ],
+    "onde": "Aplicativo do Bolsa Família, lotérica, Caixa, 121.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/bolsa-familia/original/informes/2026/informe_bolsa_familia_n_104.pdf",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "MDS - Informe Bolsa Família nº 104 (calendário 2026)",
+    "quem_pode": "Quem recebe Bolsa Família.",
+    "como_pedir": "Não se aplica.",
+    "renovacao": "Não se aplica.",
+    "se_acabar_ou_bloquear": "Se não receber na data, veja bloqueio.",
+    "status_verificacao": "parcial",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 16,
+    "codigo": "pe-de-meia-ensino-medio",
+    "categoria": "Educação",
+    "titulo": "Pé-de-Meia (ensino médio)",
+    "palavras_chave": [
+      "pé de meia",
+      "pe de meia",
+      "poupança estudante",
+      "bolsa ensino médio",
+      "200 reais estudante",
+      "pé-de-meia 2026",
+      "dinheiro para estudante",
+      "frequencia 80%"
+    ],
+    "resposta": "O Pé-de-Meia paga dinheiro a estudante de escola pública do ensino médio, de família no Cadastro Único. É preciso ir às aulas: frequência de pelo menos 80% no mês. Parte do dinheiro só pode ser sacada depois de terminar o ensino médio.",
+    "documentos": [
+      "CPF regular do estudante."
+    ],
+    "onde": "Escola, CRAS (para atualizar o cadastro) e gov.br/pedemeia.",
+    "fonte": "https://www.gov.br/mec/pt-br/acesso-a-informacao/perguntas-frequentes/pe-de-meia/sou-estudante-do-ensino-medio",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "MEC - Pé-de-Meia (perguntas frequentes)",
+    "quem_pode": "Estudante do ensino médio público, de 14 a 24 anos no regular e de 19 a 24 anos na EJA (idade contada até 31 de março), de família no Cadastro Único com renda de até meio salário mínimo por pessoa, com CPF regular. Quem tem cadastro 'só de uma pessoa' (unipessoal) não recebe.",
+    "como_pedir": "Em geral é automático para quem cumpre as regras. A família deve manter o Cadastro Único atualizado. Consulta na página 'Consulta Pé-de-Meia'.",
+    "renovacao": "A atualização do Cadastro Único vale 24 meses.",
+    "se_acabar_ou_bloquear": "Frequência abaixo de 80% no mês retém a parcela; ela pode ser liberada depois se a média do ano chegar a 80%. Reprovação: perde o R$ 1.000 do ano, mas pode seguir no programa.",
+    "status_verificacao": "parcial",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 17,
+    "codigo": "pe-de-meia-licenciaturas",
+    "categoria": "Educação",
+    "titulo": "Pé-de-Meia Licenciaturas (bolsa para quem vai ser professor)",
+    "palavras_chave": [
+      "pé de meia licenciaturas",
+      "bolsa professor",
+      "licenciatura bolsa",
+      "capes bolsa",
+      "plataforma freire",
+      "enem 650",
+      "bolsa 1050"
+    ],
+    "resposta": "É uma bolsa da Capes para quem passa em curso de licenciatura presencial, com nota média no Enem de 650 ou mais. A bolsa é de R$ 1.050 por mês: R$ 700 podem ser sacados e R$ 350 ficam guardados. Pedir pela Plataforma Freire.",
+    "documentos": [
+      "Segundo o edital, o pedido é pela plataforma. Documentos específicos não foram lidos."
+    ],
+    "onde": "Plataforma Freire; dúvidas: pdm.licenciaturas@capes.gov.br.",
+    "fonte": "https://www.gov.br/capes/pt-br/assuntos/noticias/publicado-edital-do-pe-de-meia-licenciaturas-2026",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Capes - Edital do Pé-de-Meia Licenciaturas 2026",
+    "quem_pode": "Quem tem nota média simples de 650 ou mais no Enem e foi aprovado em licenciatura presencial pelo Sisu, Prouni ou Fies, nessa ordem de prioridade.",
+    "como_pedir": "Depois de aprovado no curso, manifestar interesse na Plataforma Freire (freire.capes.gov.br).",
+    "renovacao": "Não verificado.",
+    "se_acabar_ou_bloquear": "Os R$ 350 guardados só podem ser sacados se a pessoa der aula na rede pública em até 5 anos após terminar o curso.",
+    "status_verificacao": "parcial",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 18,
+    "codigo": "tarifa-social-energia",
+    "categoria": "Energia",
+    "titulo": "Tarifa Social de Energia: até 80 kWh grátis",
+    "palavras_chave": [
+      "tarifa social",
+      "conta de luz grátis",
+      "desconto na luz",
+      "80 kwh",
+      "tarifa social de energia",
+      "luz do povo",
+      "conta de luz baixa renda",
+      "isenção conta de luz"
+    ],
+    "resposta": "Famílias de baixa renda no Cadastro Único não pagam pelos primeiros 80 kWh de luz por mês. O que passar de 80 kWh é cobrado normal, sem desconto. O benefício é automático. A conta ainda pode ter impostos e a taxa de iluminação pública.",
+    "documentos": [
+      "Em caso de doença ou deficiência: relatório e atestado médico entregues à distribuidora."
+    ],
+    "onde": "Distribuidora de energia da sua cidade; CRAS para atualizar o cadastro.",
+    "fonte": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/tarifa-social",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "ANEEL - Tarifa Social",
+    "quem_pode": "Famílias no Cadastro Único com renda de até meio salário mínimo por pessoa; ou com renda até 3 salários mínimos e uma pessoa com doença ou deficiência que usa aparelho elétrico sempre; ou idoso de 65+ ou pessoa com deficiência que recebe BPC. Vale só para casa, uma conta por família. Cadastro atualizado nos últimos 2 anos e endereço em dia.",
+    "como_pedir": "Não precisa pedir: é automático para quem tem o contrato de luz em nome de alguém da família. Se tem direito e não recebeu, falar com a distribuidora de energia.",
+    "renovacao": "Manter o Cadastro Único atualizado (2 anos).",
+    "se_acabar_ou_bloquear": "Cadastro vencido ou renda acima do limite faz perder o desconto. Regularizando o cadastro, pedir de novo à distribuidora.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 19,
+    "codigo": "desconto-social-energia",
+    "categoria": "Energia",
+    "titulo": "Desconto Social de energia (renda entre meio e 1 salário mínimo)",
+    "palavras_chave": [
+      "desconto social",
+      "desconto social energia",
+      "luz do povo desconto",
+      "120 kwh",
+      "desconto conta de luz renda maior",
+      "tarifa reduzida luz"
+    ],
+    "resposta": "É outro desconto na conta de luz, para famílias do Cadastro Único com renda por pessoa entre meio e um salário mínimo. O desconto vale para o consumo até 120 kWh por mês. Começou em janeiro de 2026. Pergunte à distribuidora se já aparece na sua conta.",
+    "documentos": [
+      "Não verificado."
+    ],
+    "onde": "Distribuidora de energia.",
+    "fonte": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2025/agencia-regula-a-politica-publica-do-luz-do-povo-estabelecida-pela-lei-no-15-235-2025",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "ANEEL - Luz do Povo (Lei 15.235/2025)",
+    "quem_pode": "Famílias no Cadastro Único com renda por pessoa entre meio e um salário mínimo.",
+    "como_pedir": "A página não diz como pedir. Falar com a distribuidora de energia.",
+    "renovacao": "Não verificado.",
+    "se_acabar_ou_bloquear": "Não verificado.",
+    "status_verificacao": "parcial",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 20,
+    "codigo": "bpc-idoso",
+    "categoria": "BPC",
+    "titulo": "BPC para pessoa idosa (65 anos ou mais)",
+    "palavras_chave": [
+      "bpc",
+      "loas",
+      "benefício assistencial",
+      "idoso bpc",
+      "um salário mínimo idoso",
+      "benefício de prestação continuada",
+      "bpc loas idoso",
+      "aposentadoria sem contribuir"
+    ],
+    "resposta": "O BPC paga um salário mínimo por mês a pessoa de 65 anos ou mais com renda muito baixa na família. Não precisa ter contribuído para o INSS. A família precisa estar no Cadastro Único, com cadastro de até 2 anos. Pedir pelo Meu INSS ou ligando 135.",
+    "documentos": [
+      "Documento com foto e CPF; Cadastro Único da família atualizado. Procurador: procuração e documentos dele."
+    ],
+    "onde": "Meu INSS, telefone 135, CRAS (para o Cadastro Único).",
+    "fonte": "https://www.gov.br/inss/pt-br/direitos-e-deveres/beneficios-assistenciais/beneficio-assistencial-a-pessoa-idosa-bpc-loas",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "INSS - Benefício assistencial à pessoa idosa (BPC-Loas)",
+    "quem_pode": "Pessoa com 65 anos ou mais, brasileira ou com nacionalidade portuguesa, com renda por pessoa da família de até 1/4 do salário mínimo. Quem está preso não tem direito.",
+    "como_pedir": "Aplicativo ou site Meu INSS: 'Novo pedido', digitar 'assistencial', escolher 'Benefício Assistencial à pessoa idosa'. Ou telefone 135 (segunda a sábado, 7h às 22h). Só vai ao INSS se for chamado.",
+    "renovacao": "Não verificado na página.",
+    "se_acabar_ou_bloquear": "O Cadastro Único desatualizado pode fazer o benefício ser cortado. Não paga 13º nem pensão por morte. Para revisão, ligue 135.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 21,
+    "codigo": "bpc-deficiencia",
+    "categoria": "BPC",
+    "titulo": "BPC para pessoa com deficiência",
+    "palavras_chave": [
+      "bpc deficiência",
+      "loas deficiente",
+      "benefício deficiente",
+      "bpc pcd",
+      "pessoa com deficiência benefício",
+      "perícia inss bpc",
+      "bpc criança"
+    ],
+    "resposta": "O BPC paga um salário mínimo por mês a pessoa com deficiência de qualquer idade, se a família tem renda muito baixa. A deficiência precisa durar pelo menos 2 anos. O INSS faz uma avaliação médica e social. Pedir pelo Meu INSS ou ligando 135.",
+    "documentos": [
+      "Documento com foto (obrigatório no dia da perícia, em qualquer idade), atestados e exames médicos, Cadastro Único atualizado. Procurador: procuração e documentos dele."
+    ],
+    "onde": "Meu INSS, 135, CRAS.",
+    "fonte": "https://www.gov.br/inss/pt-br/direitos-e-deveres/beneficios-assistenciais/beneficio-assistencial-a-pessoa-com-deficiencia-bpc-loas",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "INSS - Benefício assistencial à pessoa com deficiência (BPC-Loas)",
+    "quem_pode": "Pessoa com deficiência física, mental, intelectual ou sensorial que dure pelo menos 2 anos, com renda por pessoa da família de até 1/4 do salário mínimo. Brasileira ou portuguesa morando no Brasil. Não precisa ter contribuído para o INSS.",
+    "como_pedir": "Meu INSS (site ou app): 'Novo pedido', digitar 'assistencial', escolher 'Benefício Assistencial à pessoa com deficiência'. Ou telefone 135 (segunda a sábado, 7h às 22h). A pessoa precisa ir às avaliações médica e social, mesmo se outra pessoa fez o pedido.",
+    "renovacao": "Não verificado.",
+    "se_acabar_ou_bloquear": "Cadastro desatualizado pode cortar o benefício. Ligue 135.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 22,
+    "codigo": "gas-do-povo",
+    "categoria": "Gás",
+    "titulo": "Gás do Povo (recarga do botijão)",
+    "palavras_chave": [
+      "gás do povo",
+      "gas do povo",
+      "botijão grátis",
+      "auxílio gás",
+      "gás de cozinha",
+      "vale gás",
+      "recarga botijão",
+      "13 kg"
+    ],
+    "resposta": "O Gás do Povo dá um vale para recarregar o botijão de 13 kg, de graça, em revenda credenciada. Famílias de 2 ou 3 pessoas recebem um vale a cada 3 meses. Famílias de 4 ou mais, um vale a cada 2 meses. A seleção é automática.",
+    "documentos": [
+      "Para usar o vale: cartão do Bolsa Família, cartão de débito Caixa, ou CPF do responsável mais código por SMS (manter o celular em dia no Caixa Tem)."
+    ],
+    "onde": "Aplicativo Meu Social, site gasdopovo.mds.gov.br, revenda credenciada; CRAS para o cadastro.",
+    "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/gas-do-povo",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "MDS - Gás do Povo",
+    "quem_pode": "Família no Cadastro Único, atualizado nos últimos 24 meses, com renda de até meio salário mínimo por pessoa. Não pode ter CPF irregular do responsável, óbito do responsável ou estar em averiguação cadastral. Hoje há prioridade para famílias do Bolsa Família com 2 ou mais pessoas.",
+    "como_pedir": "Não se pede. A seleção é mensal e automática. Consulte em gasdopovo.mds.gov.br ou no aplicativo Meu Social.",
+    "renovacao": "Manter o Cadastro Único atualizado e o CPF regular.",
+    "se_acabar_ou_bloquear": "Pendência no cadastro tira a família da seleção. Vale não usado pode ser cancelado.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 23,
+    "codigo": "carteira-pessoa-idosa",
+    "categoria": "Outros benefícios",
+    "titulo": "Carteira da Pessoa Idosa (passagem interestadual grátis ou com desconto)",
+    "palavras_chave": [
+      "carteira do idoso",
+      "carteira da pessoa idosa",
+      "passagem de ônibus idoso",
+      "viagem interestadual idoso",
+      "passagem grátis idoso",
+      "estatuto do idoso passagem"
+    ],
+    "resposta": "A Carteira da Pessoa Idosa é para quem tem 60 anos ou mais e ganha até 2 salários mínimos. Ela dá direito a viajar de ônibus entre estados de graça ou pagando metade. Precisa estar no Cadastro Único. Emita pelo site com conta gov.br ou peça ajuda no CRAS.",
+    "documentos": [
+      "Número do NIS (vem do Cadastro Único). Quem não tem cadastro deve ir antes ao CRAS."
+    ],
+    "onde": "Site carteiraidoso.cidadania.gov.br, CRAS, telefone 121 (7h às 19h).",
+    "fonte": "https://www.gov.br/pt-br/servicos/adquirir-carteira-do-idoso",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Portal gov.br - Emitir Carteira da Pessoa Idosa",
+    "quem_pode": "Pessoa com 60 anos ou mais, com renda própria de até 2 salários mínimos, no Cadastro Único atualizado.",
+    "como_pedir": "No site carteiraidoso.cidadania.gov.br, com conta gov.br. Quem precisar de ajuda pode ir ao CRAS.",
+    "renovacao": "A carteira vale 2 anos. Para emitir outra, o Cadastro Único tem que estar atualizado.",
+    "se_acabar_ou_bloquear": "Depois de fazer ou atualizar o cadastro, pode levar até 45 dias para conseguir emitir. Em urgência, a assistência social da prefeitura pode dar uma declaração em papel que vale 180 dias no país todo.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 24,
+    "codigo": "id-jovem",
+    "categoria": "Outros benefícios",
+    "titulo": "ID Jovem (meia-entrada e viagem interestadual)",
+    "palavras_chave": [
+      "id jovem",
+      "identidade jovem",
+      "meia entrada jovem",
+      "passagem jovem",
+      "carteira do jovem",
+      "cinema meia",
+      "15 a 29 anos"
+    ],
+    "resposta": "A ID Jovem é uma carteira digital para jovens de 15 a 29 anos de família de baixa renda. Dá meia-entrada em cinema, teatro e shows. Também dá 2 vagas grátis e 2 com 50% de desconto em viagens entre estados. Não precisa estar estudando.",
+    "documentos": [
+      "Para emitir: NIS ou CPF, nome completo e data de nascimento. No CRAS: documento com foto e NIS; o CRAS pode pedir comprovante de renda e de endereço."
+    ],
+    "onde": "CRAS; site idjovem.juventude.gov.br ou aplicativo ID Jovem; e-mail atendimento.idjovem@presidencia.gov.br.",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-identidade-jovem",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Portal gov.br - Gerar carteira do ID Jovem",
+    "quem_pode": "Jovem de 15 a 29 anos, com renda familiar de até 2 salários mínimos, no Cadastro Único atualizado nos últimos 24 meses. Não precisa estar estudando.",
+    "como_pedir": "Pelo aplicativo ID Jovem ou pelo site oficial, informando NIS (ou CPF), nome, data de nascimento e nome da mãe.",
+    "renovacao": "Vale 365 dias. Depois, emitir outra no site ou app, e as regras são conferidas de novo.",
+    "se_acabar_ou_bloquear": "Se o cadastro estiver desatualizado, atualizar no CRAS antes.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 25,
+    "codigo": "isencao-taxa-concurso",
+    "categoria": "Outros benefícios",
+    "titulo": "Isenção da taxa de inscrição em concurso público",
+    "palavras_chave": [
+      "isenção concurso",
+      "taxa de concurso grátis",
+      "isenção taxa inscrição",
+      "concurso público cadunico",
+      "não pagar inscrição",
+      "isento concurso"
+    ],
+    "resposta": "Em concurso do governo federal, quem está no Cadastro Único e é de família de baixa renda pode pedir isenção da taxa de inscrição. O pedido é feito ao órgão que faz o concurso, com o NIS. As regras e datas ficam no edital de cada concurso.",
+    "documentos": [
+      "NIS e declaração de que é de família de baixa renda."
+    ],
+    "onde": "Banca ou órgão do concurso; CRAS para consultar o NIS.",
+    "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6593.htm",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Planalto - Decreto nº 6.593/2008",
+    "quem_pode": "Pessoa inscrita no Cadastro Único, de família de baixa renda (decreto federal). Concursos estaduais e municipais seguem a regra do próprio edital.",
+    "como_pedir": "Pedir ao órgão do concurso no período do edital, com o número do NIS e a declaração de baixa renda.",
+    "renovacao": "Cada concurso tem o seu prazo.",
+    "se_acabar_ou_bloquear": "Perdeu o prazo do edital, perde a isenção. Leia o edital.",
+    "status_verificacao": "parcial",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 26,
+    "codigo": "minha-casa-minha-vida",
+    "categoria": "Outros benefícios",
+    "titulo": "Minha Casa, Minha Vida e o Cadastro Único",
+    "palavras_chave": [
+      "minha casa minha vida",
+      "mcmv",
+      "casa própria",
+      "casa popular",
+      "inscrição minha casa",
+      "faixa 1",
+      "moradia"
+    ],
+    "resposta": "Para a Faixa 1 do Minha Casa, Minha Vida a inscrição é na prefeitura, e o Cadastro Único precisa estar atualizado. É proibido cobrar taxa para se inscrever. Inscrever não garante a casa: tem seleção. Veja o aviso da prefeitura.",
+    "documentos": [
+      "Cadastro Único atualizado; o resto depende da prefeitura."
+    ],
+    "onde": "Secretaria de habitação da prefeitura e CRAS.",
+    "fonte": "https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/habitacao/programa-minha-casa-minha-vida",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Ministério das Cidades - Minha Casa, Minha Vida",
+    "quem_pode": "Famílias de baixa renda dentro das regras do programa e do edital da prefeitura. O limite de renda não foi confirmado.",
+    "como_pedir": "Na prefeitura da sua cidade, no período do edital.",
+    "renovacao": "Não verificado.",
+    "se_acabar_ou_bloquear": "Se alguém cobrar para inscrever ou para passar na frente, é golpe: não pague e denuncie ao Ministério Público.",
+    "status_verificacao": "parcial",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 27,
+    "codigo": "passe-livre-interestadual",
+    "categoria": "Outros benefícios",
+    "titulo": "Passe Livre interestadual para pessoa com deficiência",
+    "palavras_chave": [
+      "passe livre",
+      "passe livre deficiente",
+      "passagem grátis deficiente",
+      "ônibus grátis pcd",
+      "passe livre antt",
+      "viagem de graça deficiência",
+      "passe livre acompanhante"
+    ],
+    "resposta": "O Passe Livre deixa a pessoa com deficiência de baixa renda viajar de graça em ônibus, trem ou barco entre estados. Se o médico disser que precisa, o acompanhante também viaja de graça. O pedido é pela internet, no site da ANTT, com conta gov.br. Não vence.",
+    "documentos": [
+      "Conta gov.br. Se precisar do laudo, o médico entra no site com a própria conta gov.br e registra a deficiência usando CPF, nome, data de nascimento, estado e cidade da pessoa."
+    ],
+    "onde": "Site passelivre.antt.gov.br; telefone 166 (Ouvidoria da ANTT). O serviço é grátis.",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-passe-livre-interestadual-digital",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Portal gov.br - Obter Passe Livre Interestadual Digital (ANTT)",
+    "quem_pode": "Pessoa com deficiência com renda por pessoa da família de até 1 salário mínimo. Precisa ser de um destes jeitos: receber BPC; ou estar no Cadastro Único com essa renda e constar no Cadastro-Inclusão; ou estar no Cadastro Único com essa renda e ter um médico que registre a deficiência no site.",
+    "como_pedir": "No site passelivre.antt.gov.br, entrar com conta gov.br, clicar em 'Obter o Passe Livre', preencher e enviar. A resposta pela internet sai na hora. Também dá para pedir pelos Correios.",
+    "renovacao": "A página diz que o Passe Livre não tem validade.",
+    "se_acabar_ou_bloquear": "Pedido pelos Correios leva em média 1 mês. Pedido em papel enviado à ANTT: até 30 dias, podendo dobrar.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 28,
+    "codigo": "cnh-social",
+    "categoria": "Outros benefícios",
+    "titulo": "CNH Social (carteira de motorista de graça)",
+    "palavras_chave": [
+      "cnh social",
+      "carteira de motorista grátis",
+      "habilitação gratuita",
+      "cnh de graça",
+      "tirar carta de graça",
+      "autoescola grátis",
+      "cnh popular"
+    ],
+    "resposta": "A CNH Social paga a carteira de motorista para pessoas de baixa renda: exames, aulas, provas e o documento. Quem organiza é o Detran de cada estado, com vagas limitadas e edital próprio. Precisa ter 18 anos ou mais e estar no Cadastro Único atualizado.",
+    "documentos": [
+      "Depende do edital do seu estado."
+    ],
+    "onde": "CRAS (Cadastro Único) e site do Detran do seu estado.",
+    "fonte": "https://www.gov.br/mulheres/pt-br/central-de-conteudos/noticias/2026/defeso-eleitoral/cnh-social-saiba-como-acessar-o-programa-que-preve-gratuidade-na-habilitacao-para-pessoas-de-baixa-renda",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Ministério das Mulheres - CNH Social: saiba como acessar o programa",
+    "quem_pode": "Pessoa com 18 anos ou mais, no Cadastro Único com dados atualizados, com renda dentro do limite que o seu estado define no edital.",
+    "como_pedir": "1) Fazer ou atualizar o Cadastro Único no CRAS da sua cidade. 2) Acompanhar o site do Detran do seu estado. 3) Ler o edital e se inscrever no prazo.",
+    "renovacao": "Cada estado abre editais em datas diferentes.",
+    "se_acabar_ou_bloquear": "Se não houver edital aberto, é preciso esperar o próximo. Ninguém pode cobrar pela inscrição.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 29,
+    "codigo": "tarifa-social-agua",
+    "categoria": "Outros benefícios",
+    "titulo": "Tarifa Social de Água e Esgoto",
+    "palavras_chave": [
+      "tarifa social água",
+      "desconto conta de água",
+      "conta de água baixa renda",
+      "tarifa social sabesp",
+      "água mais barata",
+      "desconto esgoto",
+      "conta de agua cara"
+    ],
+    "resposta": "Famílias de baixa renda no Cadastro Único, ou com alguém que recebe BPC, têm direito a desconto na conta de água e esgoto. A empresa de água deve dar o desconto sozinha, usando o Cadastro Único. Se não recebeu, vá ao atendimento da empresa com documento.",
+    "documentos": [
+      "Documento de identificação e um destes: comprovante do Cadastro Único, cartão do BPC, extrato do benefício ou declaração do INSS."
+    ],
+    "onde": "Empresa de água e esgoto da sua cidade; agência reguladora local; CRAS para o cadastro.",
+    "fonte": "https://www.gov.br/ana/pt-br/assuntos/saneamento-basico/tarifa-social-de-agua-e-esgoto/perguntas-frequentes",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "ANA - Tarifa Social de Água e Esgoto: Perguntas Frequentes",
+    "quem_pode": "Famílias no Cadastro Único com renda de até meio salário mínimo por pessoa, ou famílias com alguém que recebe BPC. O dinheiro do Bolsa Família e do BPC não conta na renda.",
+    "como_pedir": "Em geral é automático. Se a família tem direito e não recebeu, ir ao atendimento da empresa de água e esgoto.",
+    "renovacao": "Manter o Cadastro Único atualizado.",
+    "se_acabar_ou_bloquear": "Se a empresa não resolver, reclamar na agência reguladora de saneamento do seu estado ou cidade.",
+    "status_verificacao": "parcial",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 30,
+    "codigo": "scfv",
+    "categoria": "Outros benefícios",
+    "titulo": "SCFV - Serviço de Convivência e Fortalecimento de Vínculos",
+    "palavras_chave": [
+      "scfv",
+      "serviço de convivência",
+      "grupo do cras",
+      "atividades cras",
+      "convivência idosos",
+      "projeto para crianças cras",
+      "oficinas cras"
+    ],
+    "resposta": "O SCFV é um serviço da assistência social com atividades em grupo, para crianças, jovens, adultos e idosos. A ideia é fortalecer a convivência na família e no bairro. Funciona no CRAS ou em centros de convivência. Para participar, procure o CRAS.",
+    "documentos": [
+      "Depende da cidade. Algumas pedem o Cadastro Único."
+    ],
+    "onde": "CRAS ou centro de convivência da prefeitura.",
+    "fonte": "https://www.gov.br/cidadania/pt-br/acoes-e-programas/assistencia-social/servicos-e-programas-1/convivencia-e-fortalecimento-de-vinculos",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Governo federal - Convivência e Fortalecimento de Vínculos",
+    "quem_pode": "Pessoas de várias idades, em grupos por faixa de idade, com prioridade para quem está em situação de risco. As regras mudam de cidade para cidade.",
+    "como_pedir": "Ir ao CRAS perto de casa.",
+    "renovacao": "Não se aplica.",
+    "se_acabar_ou_bloquear": "Não se aplica.",
+    "status_verificacao": "parcial",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 31,
+    "codigo": "facultativo-baixa-renda",
+    "categoria": "Outros benefícios",
+    "titulo": "INSS para dona de casa de baixa renda (Facultativo de Baixa Renda)",
+    "palavras_chave": [
+      "facultativo baixa renda",
+      "inss dona de casa",
+      "contribuir 5%",
+      "aposentadoria dona de casa",
+      "pagar inss barato",
+      "inss baixa renda",
+      "carnê inss dona de casa"
+    ],
+    "resposta": "Quem cuida só da casa e não tem renda própria pode pagar o INSS com valor menor: 5% do salário mínimo por mês. Assim a pessoa pode ter aposentadoria, auxílio-doença e salário-maternidade. A família precisa estar no Cadastro Único e ganhar até 2 salários mínimos.",
+    "documentos": [
+      "Cadastro Único atualizado; CPF."
+    ],
+    "onde": "CRAS, Meu INSS, telefone 135.",
+    "fonte": "https://www.gov.br/inss/pt-br/noticias/contribuinte-facultativo-de-baixa-renda",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "INSS - Direitos do contribuinte facultativo de baixa renda",
+    "quem_pode": "Pessoa sem nenhuma renda própria, que não trabalha fora e cuida da própria casa, de família com renda de até 2 salários mínimos (sem contar o Bolsa Família), no Cadastro Único atualizado nos últimos 2 anos.",
+    "como_pedir": "Fazer ou atualizar o Cadastro Único no CRAS. Para se inscrever no INSS: Meu INSS ou telefone 135.",
+    "renovacao": "Manter o Cadastro Único atualizado a cada 2 anos e pagar em dia.",
+    "se_acabar_ou_bloquear": "Se a pessoa não cumprir as regras, as contribuições de 5% não valem na hora de pedir o benefício. O INSS só confere quando o benefício é pedido.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 32,
+    "codigo": "isencao-imovel-uniao",
+    "categoria": "Outros benefícios",
+    "titulo": "Isenção de taxas de imóvel da União",
+    "palavras_chave": [
+      "imóvel da união",
+      "taxa de ocupação",
+      "foro",
+      "laudêmio",
+      "isenção spu",
+      "terreno da marinha",
+      "taxa spu"
+    ],
+    "resposta": "Quem mora em imóvel que pertence à União, como terreno de marinha, e é de baixa renda pode pedir para não pagar foro, taxa de ocupação e laudêmio. Estar no Cadastro Único ajuda a comprovar. O pedido é feito no portal da Secretaria do Patrimônio da União.",
+    "documentos": [
+      "Não verificado."
+    ],
+    "onde": "Portal da SPU; superintendência da SPU no seu estado.",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-isencao-de-pagamento-de-taxas-sobre-imovel-da-uniao",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Portal gov.br - Obter isenção de pagamento de taxas sobre imóvel da União",
+    "quem_pode": "Pessoa de baixa renda que ocupa imóvel da União. O Cadastro Único é uma das formas de comprovar.",
+    "como_pedir": "Pelo portal da Secretaria do Patrimônio da União (SPU), ou nas superintendências da SPU nos estados.",
+    "renovacao": "Não verificado.",
+    "se_acabar_ou_bloquear": "Não verificado.",
+    "status_verificacao": "parcial",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 33,
+    "codigo": "fies-social",
+    "categoria": "Educação",
+    "titulo": "Fies Social (faculdade particular financiada)",
+    "palavras_chave": [
+      "fies social",
+      "fies cadunico",
+      "financiamento faculdade",
+      "faculdade de graça",
+      "fies 100%",
+      "fies baixa renda"
+    ],
+    "resposta": "O Fies Social é uma parte das vagas do Fies, o financiamento de faculdade particular, guardada para estudantes do Cadastro Único com renda de até meio salário mínimo por pessoa. Ele pode financiar até 100% da mensalidade. A inscrição é no Portal Único do MEC.",
+    "documentos": [
+      "Depende do edital."
+    ],
+    "onde": "acessounico.mec.gov.br/fies.",
+    "fonte": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2024/02/fies-social-financia-ate-100-de-encargos-para-estudantes-de-familias-do-cadunico",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Planalto - Fies Social financia até 100% de encargos",
+    "quem_pode": "Estudante de família no Cadastro Único com renda de até meio salário mínimo por pessoa, que também cumpra as regras gerais do Fies (Enem).",
+    "como_pedir": "Inscrição no Fies pelo Portal Único de Acesso ao Ensino Superior (acessounico.mec.gov.br/fies), no prazo do edital, escolhendo a opção Fies Social.",
+    "renovacao": "Cada semestre tem edital próprio.",
+    "se_acabar_ou_bloquear": "Não verificado.",
+    "status_verificacao": "parcial",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 34,
+    "codigo": "pnae-merenda",
+    "categoria": "Educação",
+    "titulo": "PNAE - Merenda escolar",
+    "palavras_chave": [
+      "pnae",
+      "merenda escolar",
+      "alimentação escolar",
+      "comida na escola",
+      "merenda",
+      "lanche da escola"
+    ],
+    "resposta": "O PNAE é o programa do governo federal que paga a merenda dos alunos de escola pública, da creche ao ensino médio. A família não precisa pedir. Dúvidas ou problemas com a merenda: fale com a escola ou com o Conselho de Alimentação Escolar da cidade.",
+    "documentos": [
+      "Não se aplica."
+    ],
+    "onde": "Escola; Conselho de Alimentação Escolar (CAE) da cidade.",
+    "fonte": "https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pnae",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "FNDE - PNAE",
+    "quem_pode": "Estudantes da educação básica pública (e escolas comunitárias e filantrópicas conveniadas).",
+    "como_pedir": "Não precisa pedir.",
+    "renovacao": "Não se aplica.",
+    "se_acabar_ou_bloquear": "Não se aplica.",
+    "status_verificacao": "parcial",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 35,
+    "codigo": "dignidade-menstrual",
+    "categoria": "saude",
+    "titulo": "Dignidade Menstrual (absorvente de graça)",
+    "palavras_chave": [
+      "absorvente grátis",
+      "dignidade menstrual",
+      "absorvente farmácia popular",
+      "absorvente de graça",
+      "pegar absorvente",
+      "meu sus absorvente"
+    ],
+    "resposta": "Pessoas de 10 a 49 anos no Cadastro Único podem pegar absorventes de graça na Farmácia Popular. Primeiro, emita a autorização no aplicativo Meu SUS Digital. Ela vale 180 dias. Leve documento com foto e CPF. São 40 absorventes a cada 56 dias.",
+    "documentos": [
+      "Documento com foto e CPF e a autorização (no celular ou impressa)."
+    ],
+    "onde": "Qualquer farmácia com o selo 'Aqui Tem Farmácia Popular'. Dúvidas: 136 (segunda a sexta 8h às 20h, sábado 8h às 18h).",
+    "fonte": "https://www.gov.br/saude/pt-br/campanhas-da-saude/2024/dignidade-menstrual/como-retirar-absorventes-gratuitos",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Ministério da Saúde - Como retirar absorventes gratuitos",
+    "quem_pode": "Pessoas de 10 a 49 anos, no Cadastro Único, que tenham renda de até R$ 218 por mês, ou sejam estudantes de baixa renda da rede pública, ou estejam em situação de rua.",
+    "como_pedir": "No Meu SUS Digital (app ou site), abrir 'Programa Dignidade Menstrual' e clicar em 'Emitir Autorização'. Quem não conseguir pode pedir ajuda no posto de saúde (UBS), CRAS, CREAS ou Centro POP.",
+    "renovacao": "A autorização vale 180 dias. Depois, emitir outra.",
+    "se_acabar_ou_bloquear": "Não verificado.",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  },
+  {
+    "id": 36,
+    "codigo": "farmacia-popular",
+    "categoria": "saude",
+    "titulo": "Farmácia Popular (remédio de graça)",
+    "palavras_chave": [
+      "farmácia popular",
+      "remédio grátis",
+      "remedio de graça",
+      "aqui tem farmácia popular",
+      "fralda geriátrica grátis",
+      "remédio pressão grátis",
+      "remédio diabetes grátis"
+    ],
+    "resposta": "Na Farmácia Popular você pega remédios de graça para pressão alta, diabetes, asma e outros problemas, em farmácias com o selo 'Aqui Tem Farmácia Popular'. Leve a receita, documento com foto e CPF. Também há fralda geriátrica e absorvente.",
+    "documentos": [
+      "Documento oficial com foto e CPF; receita válida. Fralda: receita, laudo ou atestado (com CID para pessoa com deficiência). Se outra pessoa for buscar: documento dela e procuração ou decisão judicial."
+    ],
+    "onde": "Farmácia com o selo 'Aqui Tem Farmácia Popular', UBS ou farmácia municipal. Telefone 136.",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular",
+    "verificado_em": "2026-11-09",
+    "fonte_nome": "Ministério da Saúde - Farmácia Popular",
+    "quem_pode": "Qualquer pessoa com receita válida, do SUS ou particular, para os remédios do programa. Fralda geriátrica: pessoas de 60 anos ou mais ou pessoas com deficiência.",
+    "como_pedir": "Ir a uma farmácia credenciada, UBS ou farmácia municipal com os documentos.",
+    "renovacao": "Nova receita quando a antiga vencer.",
+    "se_acabar_ou_bloquear": "Reclamações só pelo 136 (Ouvidoria do SUS).",
+    "status_verificacao": "verificado",
+    "conferido_por_humano": false
+  }
+]
