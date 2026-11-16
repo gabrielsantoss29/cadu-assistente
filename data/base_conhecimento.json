@@ -27,7 +27,7 @@
     "renovacao": "A cada 2 anos (24 meses) ou sempre que algo mudar na família.",
     "se_acabar_ou_bloquear": "Cadastro desatualizado pode levar ao bloqueio ou cancelamento de benefícios. Ver fichas de atualização e de bloqueio.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 2,
@@ -57,7 +57,7 @@
     "renovacao": "Atualizar a cada 2 anos ou quando mudar algo (endereço, renda, quem mora na casa, escola dos filhos).",
     "se_acabar_ou_bloquear": "Se faltar documento, a prefeitura deve fazer o cadastro mesmo assim, mas ele fica incompleto e a família não entra em programas até apresentar os documentos.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 3,
@@ -87,7 +87,7 @@
     "renovacao": "A cada 24 meses ou quando houver mudança. Famílias do Bolsa Família podem ser convocadas entre 18 e 24 meses após a última atualização.",
     "se_acabar_ou_bloquear": "Cadastro vencido ou com problema pode bloquear ou cancelar benefícios. Ver ficha de bloqueio do Bolsa Família.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 4,
@@ -116,7 +116,7 @@
     "renovacao": "Verde: nada a fazer. Amarelo: perto de completar 2 anos. Vermelho: mais de 2 anos sem atualizar.",
     "se_acabar_ou_bloquear": "Vermelho pode levar a revisão e bloqueio de benefícios se a família for convocada e não atualizar.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 5,
@@ -146,7 +146,7 @@
     "renovacao": "Não se aplica.",
     "se_acabar_ou_bloquear": "Se o app estiver fora do ar, espere ou procure um posto.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 6,
@@ -176,7 +176,7 @@
     "renovacao": "Não se aplica.",
     "se_acabar_ou_bloquear": "Se não aparecer cadastro, procure o CRAS para se cadastrar.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 7,
@@ -206,7 +206,7 @@
     "renovacao": "Depende do aviso recebido. Respeite a data-limite.",
     "se_acabar_ou_bloquear": "Quem não atualiza pode ter Bolsa Família e Tarifa Social bloqueados ou cancelados, e o cadastro pode ser excluído. BPC também pode ser cortado.",
     "status_verificacao": "parcial",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 8,
@@ -235,7 +235,7 @@
     "renovacao": "Não se aplica.",
     "se_acabar_ou_bloquear": "Cancelamento é imediato e não volta. Para voltar, precisa fazer novo cadastro e esperar nova seleção do Bolsa Família.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 9,
@@ -264,7 +264,7 @@
     "renovacao": "Não se aplica.",
     "se_acabar_ou_bloquear": "Se o benefício bloqueou, o CRAS é o primeiro lugar a procurar.",
     "status_verificacao": "parcial",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 10,
@@ -294,7 +294,7 @@
     "renovacao": "Não se aplica.",
     "se_acabar_ou_bloquear": "Não se aplica.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 11,
@@ -325,7 +325,7 @@
     "renovacao": "Não se aplica.",
     "se_acabar_ou_bloquear": "Se cair em golpe, denuncie às autoridades (polícia) e avise o CRAS.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 12,
@@ -355,7 +355,7 @@
     "renovacao": "Manter o Cadastro Único atualizado (2 anos) e cumprir as condições: frequência escolar (60% para 4 e 5 anos; 75% de 6 a 18 anos), vacinas, peso e altura de crianças menores de 7 anos e pré-natal.",
     "se_acabar_ou_bloquear": "Ver ficha de bloqueio e cancelamento.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 13,
@@ -384,7 +384,7 @@
     "renovacao": "O valor pode mudar quando a família muda no Cadastro Único.",
     "se_acabar_ou_bloquear": "Ver ficha de bloqueio.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 14,
@@ -414,7 +414,7 @@
     "renovacao": "Atualizar o Cadastro Único resolve a maior parte dos casos.",
     "se_acabar_ou_bloquear": "Segundo as Perguntas Frequentes do MDS: a reversão do cancelamento deve ser feita pelo município em até 180 dias; depois disso a família só volta com novo processo de concessão. Parcelas atrasadas só podem ser pagas se a falta de atualização não foi culpa da família.",
     "status_verificacao": "parcial",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 15,
@@ -443,7 +443,7 @@
     "renovacao": "Não se aplica.",
     "se_acabar_ou_bloquear": "Se não receber na data, veja bloqueio.",
     "status_verificacao": "parcial",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 16,
@@ -473,7 +473,7 @@
     "renovacao": "A atualização do Cadastro Único vale 24 meses.",
     "se_acabar_ou_bloquear": "Frequência abaixo de 80% no mês retém a parcela; ela pode ser liberada depois se a média do ano chegar a 80%. Reprovação: perde o R$ 1.000 do ano, mas pode seguir no programa.",
     "status_verificacao": "parcial",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 17,
@@ -502,7 +502,7 @@
     "renovacao": "Não verificado.",
     "se_acabar_ou_bloquear": "Os R$ 350 guardados só podem ser sacados se a pessoa der aula na rede pública em até 5 anos após terminar o curso.",
     "status_verificacao": "parcial",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 18,
@@ -532,7 +532,7 @@
     "renovacao": "Manter o Cadastro Único atualizado (2 anos).",
     "se_acabar_ou_bloquear": "Cadastro vencido ou renda acima do limite faz perder o desconto. Regularizando o cadastro, pedir de novo à distribuidora.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 19,
@@ -560,7 +560,7 @@
     "renovacao": "Não verificado.",
     "se_acabar_ou_bloquear": "Não verificado.",
     "status_verificacao": "parcial",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 20,
@@ -590,7 +590,7 @@
     "renovacao": "Não verificado na página.",
     "se_acabar_ou_bloquear": "O Cadastro Único desatualizado pode fazer o benefício ser cortado. Não paga 13º nem pensão por morte. Para revisão, ligue 135.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 21,
@@ -619,7 +619,7 @@
     "renovacao": "Não verificado.",
     "se_acabar_ou_bloquear": "Cadastro desatualizado pode cortar o benefício. Ligue 135.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 22,
@@ -649,7 +649,7 @@
     "renovacao": "Manter o Cadastro Único atualizado e o CPF regular.",
     "se_acabar_ou_bloquear": "Pendência no cadastro tira a família da seleção. Vale não usado pode ser cancelado.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 23,
@@ -677,7 +677,7 @@
     "renovacao": "A carteira vale 2 anos. Para emitir outra, o Cadastro Único tem que estar atualizado.",
     "se_acabar_ou_bloquear": "Depois de fazer ou atualizar o cadastro, pode levar até 45 dias para conseguir emitir. Em urgência, a assistência social da prefeitura pode dar uma declaração em papel que vale 180 dias no país todo.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 24,
@@ -706,7 +706,7 @@
     "renovacao": "Vale 365 dias. Depois, emitir outra no site ou app, e as regras são conferidas de novo.",
     "se_acabar_ou_bloquear": "Se o cadastro estiver desatualizado, atualizar no CRAS antes.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 25,
@@ -734,7 +734,7 @@
     "renovacao": "Cada concurso tem o seu prazo.",
     "se_acabar_ou_bloquear": "Perdeu o prazo do edital, perde a isenção. Leia o edital.",
     "status_verificacao": "parcial",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 26,
@@ -763,7 +763,7 @@
     "renovacao": "Não verificado.",
     "se_acabar_ou_bloquear": "Se alguém cobrar para inscrever ou para passar na frente, é golpe: não pague e denuncie ao Ministério Público.",
     "status_verificacao": "parcial",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 27,
@@ -792,7 +792,7 @@
     "renovacao": "A página diz que o Passe Livre não tem validade.",
     "se_acabar_ou_bloquear": "Pedido pelos Correios leva em média 1 mês. Pedido em papel enviado à ANTT: até 30 dias, podendo dobrar.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 28,
@@ -821,7 +821,7 @@
     "renovacao": "Cada estado abre editais em datas diferentes.",
     "se_acabar_ou_bloquear": "Se não houver edital aberto, é preciso esperar o próximo. Ninguém pode cobrar pela inscrição.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 29,
@@ -850,7 +850,7 @@
     "renovacao": "Manter o Cadastro Único atualizado.",
     "se_acabar_ou_bloquear": "Se a empresa não resolver, reclamar na agência reguladora de saneamento do seu estado ou cidade.",
     "status_verificacao": "parcial",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 30,
@@ -879,7 +879,7 @@
     "renovacao": "Não se aplica.",
     "se_acabar_ou_bloquear": "Não se aplica.",
     "status_verificacao": "parcial",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 31,
@@ -908,7 +908,7 @@
     "renovacao": "Manter o Cadastro Único atualizado a cada 2 anos e pagar em dia.",
     "se_acabar_ou_bloquear": "Se a pessoa não cumprir as regras, as contribuições de 5% não valem na hora de pedir o benefício. O INSS só confere quando o benefício é pedido.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 32,
@@ -937,7 +937,7 @@
     "renovacao": "Não verificado.",
     "se_acabar_ou_bloquear": "Não verificado.",
     "status_verificacao": "parcial",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 33,
@@ -965,7 +965,7 @@
     "renovacao": "Cada semestre tem edital próprio.",
     "se_acabar_ou_bloquear": "Não verificado.",
     "status_verificacao": "parcial",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 34,
@@ -993,7 +993,7 @@
     "renovacao": "Não se aplica.",
     "se_acabar_ou_bloquear": "Não se aplica.",
     "status_verificacao": "parcial",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 35,
@@ -1021,7 +1021,7 @@
     "renovacao": "A autorização vale 180 dias. Depois, emitir outra.",
     "se_acabar_ou_bloquear": "Não verificado.",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   },
   {
     "id": 36,
@@ -1050,6 +1050,6 @@
     "renovacao": "Nova receita quando a antiga vencer.",
     "se_acabar_ou_bloquear": "Reclamações só pelo 136 (Ouvidoria do SUS).",
     "status_verificacao": "verificado",
-    "conferido_por_humano": false
+    "conferido_por_humano": true
   }
 ]
