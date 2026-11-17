@@ -28,6 +28,44 @@ PALAVRAS_FORA = {"futebol", "piada", "receita", "bolo", "filme", "musica", "nove
                  "time", "celebridade", "clima", "carro", "programar"}
 SAUDACOES = {" oi ", " ola ", " bom dia ", " boa tarde ", " boa noite ", " e ai "}
 
+# Perguntas sobre o próprio CadU (frases-chave sem acento; vale se a frase aparece na pergunta)
+SOBRE = [
+    (("quem e voce", "quem e vc", "quem e o cadu", "quem e cadu", "quem eh voce", "voce e quem",
+      "qual seu nome", "qual e o seu nome", "como voce se chama", "voce e um robo",
+      "voce e uma pessoa", "voce e humano", "voce e real", "voce e uma ia"),
+     "Eu sou o CadU, um assistente virtual que explica o CadÚnico e os benefícios sociais em "
+     "linguagem simples: quem tem direito, o que levar, onde ir e como não cair em golpe. "
+     "Não sou uma pessoa: respondo com orientações de fontes oficiais (gov.br). Pergunte, por exemplo, "
+     "\"Como atualizo o CadÚnico?\"."),
+    (("o que e o cadu", "o que e cadu", "o que e esse app", "o que e esse aplicativo", "o que e este app",
+      "pra que serve o cadu", "para que serve o cadu", "que app e esse", "que aplicativo e esse"),
+     "O CadU é um aplicativo de apoio para famílias do CadÚnico. Ele explica benefícios, prazos e "
+     "documentos, ajuda a achar o CRAS mais perto no mapa e mostra como economizar na conta de luz. "
+     "Ele não é um canal oficial do governo e não pede dados pessoais."),
+    (("o que voce faz", "o que voce sabe", "o que voce pode", "como voce funciona", "como funciona o cadu",
+      "como voce pode ajudar", "como pode me ajudar", "em que voce ajuda", "voce serve pra que",
+      "pra que voce serve", "para que voce serve", "o que posso perguntar", "o que da pra perguntar"),
+     "Eu respondo dúvidas sobre o CadÚnico e benefícios como Bolsa Família, Pé-de-Meia, Tarifa Social, "
+     "BPC e Gás do Povo: quem pode receber, documentos, prazos e onde procurar atendimento. "
+     "Escreva sua dúvida do seu jeito ou veja as categorias na aba Benefícios."),
+    (("voce e oficial", "e do governo", "voce e do governo", "app oficial", "posso confiar no cadu", "o cadu e seguro"),
+     "Não, o CadU não é um canal oficial do governo. Eu só reúno orientações de fontes oficiais, "
+     "como o gov.br. Para atendimento oficial, ligue 121 ou procure o CRAS da sua cidade. "
+     "Nunca passe senha ou código por mensagem."),
+    (("guarda meus dados", "voce guarda", "privacidade", "voce pede dados", "coleta dados",
+      "usa meus dados"),
+     "Eu não peço nem guardo dados pessoais. Não digite CPF, NIS, telefone, e-mail nem cartão. "
+     "Só uso contadores anônimos de uso, sem identificar ninguém."),
+    (("quem criou", "quem fez", "quem desenvolveu", "quem te criou", "quem te fez", "quem e seu criador",
+      "quem programou", "quem e o dono"),
+     "Fui criado por estudantes de Ciência da Computação da FIAP como projeto da Global Solution "
+     "2026 (CitizenTech), para ajudar famílias do CadÚnico a entender seus direitos."),
+    (("obrigado", "obrigada", "valeu", "muito obrigado", "brigado"),
+     "De nada! Se tiver mais alguma dúvida sobre o CadÚnico ou benefícios, é só perguntar."),
+    (("tchau", "ate logo", "ate mais", "ate a proxima"),
+     "Até mais! Quando precisar, é só chamar. Para atendimento oficial, ligue 121."),
+]
+
 
 class Assistente:
     def __init__(self, nome: str, base: BaseConhecimento, caminho_historico: str | None = None,
@@ -47,6 +85,15 @@ class Assistente:
         """8 ou mais dígitos (CPF, NIS, telefone) ou '@' (e-mail)."""
         return "@" in texto or sum(c.isdigit() for c in texto) >= 8
 
+    @staticmethod
+    def responder_sobre(pergunta: str) -> str | None:
+        """Responde perguntas sobre o próprio CadU (quem é, o que faz, se é oficial...)."""
+        normal = " " + " ".join(normalizar(pergunta).replace("?", " ").replace("!", " ").split()) + " "
+        for frases, texto in SOBRE:
+            if any(f" {f} " in normal for f in frases):
+                return texto
+        return None
+
     def analisar(self, pergunta: str) -> dict:
         """Aplica as regras e devolve um dicionário com o resultado.
         tipo: vazia | longa | dado_pessoal | saudacao | fora_escopo | nao_encontrei | encontrada"""
@@ -57,6 +104,10 @@ class Assistente:
             return {"tipo": "longa", "mensagem": AVISO_LONGA}
         if self.tem_dado_pessoal(pergunta):
             return {"tipo": "dado_pessoal", "mensagem": AVISO_DADOS}
+
+        resposta_sobre = self.responder_sobre(pergunta)
+        if resposta_sobre:
+            return {"tipo": "saudacao", "mensagem": resposta_sobre}
 
         resultados = self.base.buscar(pergunta)        # lista de tuplas (pontos, orientacao)
         if resultados and resultados[0][0] >= LIMITE_MEDIA:

@@ -111,6 +111,17 @@ class TestAnalisar(unittest.TestCase):
     def test_saudacao(self):
         self.assertEqual(self.a.analisar("Oi!")["tipo"], "saudacao")
 
+    def test_perguntas_sobre_o_cadu(self):
+        for t, trecho in [("quem é você?", "CadU"), ("O que você faz?", "CadÚnico"),
+                          ("você é oficial?", "não é um canal oficial"), ("quem criou?", "FIAP"),
+                          ("você guarda meus dados?", "não peço")]:
+            r = self.a.analisar(t)
+            self.assertEqual(r["tipo"], "saudacao", t)
+            self.assertIn(trecho.lower(), r["mensagem"].lower(), t)
+
+    def test_pergunta_de_beneficio_nao_vira_sobre(self):
+        self.assertNotEqual(self.a.analisar("preciso de ajuda com bolsa familia")["tipo"], "saudacao")
+
     def test_dado_pessoal(self):
         for t in ["meu cpf é 123.456.789-00", "joao@email.com", "fone 11987654321"]:
             self.assertEqual(self.a.analisar(t)["tipo"], "dado_pessoal", t)
