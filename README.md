@@ -8,7 +8,7 @@ O mesmo assistente roda também no app web do CadU (https://cadu-app.vercel.app)
 
 - Gabriel de Almeida Santos, RM 569395
 - Guilherme Henrique Garbelini Alberto, RM 571150
-- Hebert Soares de Jesus, RM 571507
+- Herbert Soares de Jesus, RM 571507
 
 ## Público e problema
 
