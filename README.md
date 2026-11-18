@@ -103,7 +103,22 @@ Todas as fontes estão no campo `fonte` de cada orientação (gov.br/MDS, ANEEL,
 
 ## Teste com usuários
 
-(preencher depois do teste com 3 pessoas de fora da equipe e 10+ atendimentos: indicadores do menu 3, dúvidas sem solução e uma melhoria feita, por exemplo uma palavra-chave nova)
+Teste feito no assistente de terminal com **3 pessoas de fora da equipe** (P1, P2 e P3), em 16 e 17/11/2026, com **12 atendimentos** no total (4 por pessoa). Cada pessoa usou o menu sozinha, digitando as próprias dúvidas. Não foi anotado nome nem nenhum dado pessoal. O histórico está em `data/historico.json` e os números abaixo saem do menu 3.
+
+| Indicador | Resultado |
+|---|---|
+| Atendimentos | 12 |
+| Resposta encontrada | 91,7% (11 de 12) |
+| Taxa de acerto (a pessoa disse que ajudou) | 83,3% (10 de 12) |
+| Tempo médio para encontrar | 21,5 s |
+| Tentativas por atendimento | 1,1 |
+| Facilidade de uso (1 a 5) | 4,3 (P1: 4, P2: 5, P3: 4) |
+
+**Dúvidas sem solução:**
+- "cesta basica": o assistente não tem orientação sobre isso e respondeu que não encontrou, como esperado.
+- "perdi o cartao do bolsa familia": encontrou a orientação geral do Bolsa Família, mas a pessoa disse que não respondia. Falta uma orientação específica sobre cartão perdido.
+
+**Melhoria feita:** a P1 digitou "bloqueio do bolsa familia" e o assistente mostrou "Bolsa Família: quem pode receber" (5 pontos), em vez da orientação sobre bloqueio. Ela precisou reescrever a pergunta (2 tentativas). Acrescentamos a palavra-chave "bloqueio do bolsa familia" na orientação 14 (*Meu Bolsa Família bloqueou ou foi cancelado*). Depois disso, a mesma frase encontra a orientação 14 com 8 pontos, na primeira tentativa.
 
 ## Limitações
 

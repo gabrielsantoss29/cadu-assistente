@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "data": "2026-11-16T20:10:39",
+    "origem": "pergunta",
+    "pergunta": "quando cai o pagamento",
+    "orientacao_id": 15,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 17.0,
+    "facilidade": 4
+  },
+  {
+    "data": "2026-11-16T20:12:05",
+    "origem": "pergunta",
+    "pergunta": "bolsa familia bloqueado o que fazer",
+    "orientacao_id": 14,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo_s": 60.0,
+    "facilidade": 4
+  },
+  {
+    "data": "2026-11-16T20:12:44",
+    "origem": "pergunta",
+    "pergunta": "gas do povo como pedir",
+    "orientacao_id": 22,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 18.0,
+    "facilidade": 4
+  },
+  {
+    "data": "2026-11-16T20:12:59",
+    "origem": "pergunta",
+    "pergunta": "cesta basica",
+    "orientacao_id": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_s": 0.0,
+    "facilidade": 4
+  },
+  {
+    "data": "2026-11-17T11:30:42",
+    "origem": "pergunta",
+    "pergunta": "como saber se estou no cadunico",
+    "orientacao_id": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 15.0,
+    "facilidade": 5
+  },
+  {
+    "data": "2026-11-17T11:31:32",
+    "origem": "pergunta",
+    "pergunta": "preciso atualizar o cadastro unico a cada 2 anos",
+    "orientacao_id": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 19.0,
+    "facilidade": 5
+  },
+  {
+    "data": "2026-11-17T11:32:00",
+    "origem": "pergunta",
+    "pergunta": "bpc idoso",
+    "orientacao_id": 20,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 16.0,
+    "facilidade": 5
+  },
+  {
+    "data": "2026-11-17T11:32:42",
+    "origem": "pergunta",
+    "pergunta": "perdi o cartao do bolsa familia",
+    "orientacao_id": 12,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_s": 18.0,
+    "facilidade": 5
+  },
+  {
+    "data": "2026-11-17T15:05:29",
+    "origem": "pergunta",
+    "pergunta": "onde fica o cras",
+    "orientacao_id": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 12.0,
+    "facilidade": 4
+  },
+  {
+    "data": "2026-11-17T15:06:09",
+    "origem": "pergunta",
+    "pergunta": "tarifa social conta de luz",
+    "orientacao_id": 18,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 18.0,
+    "facilidade": 4
+  },
+  {
+    "data": "2026-11-17T15:06:58",
+    "origem": "pergunta",
+    "pergunta": "fui chamado para revisao cadastral",
+    "orientacao_id": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 21.0,
+    "facilidade": 4
+  },
+  {
+    "data": "2026-11-17T15:07:37",
+    "origem": "categoria",
+    "pergunta": "Bolsa Família: quem pode receber",
+    "orientacao_id": 12,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_s": 23.0,
+    "facilidade": 4
+  }
+]
