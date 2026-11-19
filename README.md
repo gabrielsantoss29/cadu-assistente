@@ -128,4 +128,4 @@ Teste feito no assistente de terminal com **3 pessoas de fora da equipe** (P1, P
 
 ## Vídeo
 
-(link do YouTube, não listado)
+Vídeo técnico (não listado): https://youtu.be/4CzTW8cSGoY
